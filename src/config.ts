@@ -50,7 +50,7 @@ export const config = {
     contact: {
         email: "rachitkushwaha890@gmail.com",
         github: "https://github.com/rachit-890",
-        linkedin: "https://linkedin.com/in/rachit-kushwaha",
+        linkedin: "https://www.linkedin.com/in/rachit-kushwaha-8b8714297/",
         instagram: "https://instagram.com/_.rachitkushwaha",
         resume: "/resume.pdf"
     },
