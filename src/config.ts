@@ -51,9 +51,8 @@ export const config = {
         email: "rachitkushwaha890@gmail.com",
         github: "https://github.com/rachit-890",
         linkedin: "https://linkedin.com/in/rachit-kushwaha",
-        twitter: "https://x.com/rachit_kushwaha",
-        facebook: "https://www.facebook.com/rachit.kushwaha",
-        instagram: "https://www.instagram.com/rachit_kushwaha"
+        instagram: "https://instagram.com/_.rachitkushwaha",
+        resume: "/resume.pdf"
     },
     skills: {
         develop: {
