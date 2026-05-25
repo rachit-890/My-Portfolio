@@ -6,15 +6,6 @@ Welcome to the repository of my personal 3D interactive portfolio website. This 
 
 ---
 
-## 🙋‍♂️ About Me
-
-I am a passionate **Java Backend Developer** based in Ghaziabad, Uttar Pradesh, India. I specialize in building high-performance, scalable microservices and robust RESTful APIs using Spring Boot. 
-
-*   **🔒 Security & Auth:** Experienced in designing secure authentication mechanisms with JWT and OAuth2 (using Keycloak).
-*   **📡 Distributed Systems:** Skilled in establishing event-driven communication using Apache Kafka and designing microservice architectures (API Gateways, Service Discovery, Load Balancing).
-*   **⚡ Optimization:** Experienced in optimizing data layers using Redis caching, PostgreSQL, MySQL, and MongoDB.
-*   **🛠️ Architecture:** Focused on Clean Architecture, Object-Oriented Programming (OOP) principles, Agile workflows, and containerized deployments with Docker.
-
 ---
 
 ## 🎨 Portfolio Features & Tech Stack
@@ -32,24 +23,6 @@ This portfolio is built to offer a premium, cinematic experience for recruiters 
 *   **Deployment:** Render
 
 ---
-
-## 🛠️ Featured Backend Projects
-
-Here are some of the primary projects featured in my portfolio:
-
-### 1. 🛒 DreamShops — *E-commerce Microservices Platform*
-*   **Technologies:** Java, Spring Boot, Spring Cloud, Kafka, Redis, PostgreSQL, MongoDB, Keycloak, Docker
-*   **Key Highlights:** 
-    *   Architected a scalable microservices-based e-commerce platform featuring an API Gateway, service discovery, and client-side load balancing.
-    *   Implemented secure JWT/OAuth2 authentication via Keycloak with role-based access control (RBAC).
-    *   Optimized application performance by **60%** using Redis caching and Kafka-based event-driven processing.
-
-### 2. ⚡ Kinetic Cybernetics — *AI Fitness Ecosystem*
-*   **Technologies:** Java, Spring Boot, Python, Node.js, React, PostgreSQL, Docker
-*   **Key Highlights:**
-    *   Developed secure backend services using Spring Boot with JWT authentication and RESTful APIs.
-    *   Developed an AI-driven fitness platform processing 500+ biometric data points for real-time health insights.
-    *   Integrated Python ML pipelines, improving health/prediction accuracy by **40%**.
 
 ---
 
