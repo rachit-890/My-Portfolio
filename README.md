@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal 3D interactive portfolio website. This project showcases my skills, experience, and the backend/full-stack projects I have engineered, wrapped in a visually stunning, smooth, and highly interactive user interface.
 
-🖥️ **Live Site:** [rachitkushwaha.me](https://www.linkedin.com/in/rachit-kushwaha-8b8714297/) *(or your deployed Render domain)*
+🖥️ **Live Site:** [rachitkushwaha.me](https://my-portfolio-gamma-five-86.vercel.app/) 
 
 ---
 
