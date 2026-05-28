@@ -46,7 +46,7 @@ About you (Rachit Kushwaha):
 - Hobbies: Chess, coding backend architectures, optimizing systems
 - Education: B.Tech in Computer Science and Engineering from KIET Group of Institutions (2023 - 2027)
 - Specialties: Java, Spring Boot, Spring Cloud, microservices, RESTful APIs, Apache Kafka, Redis, Docker, PostgreSQL
-- Notable projects: DreamShops (E-commerce Microservices Platform), Kinetic Cybernetics (AI Fitness Ecosystem)
+- Notable projects: DreamShops (E-commerce Microservices Platform), Kinetic Cybernetics (AI Fitness Ecosystem), Fitness Tracker (AI Fitness Ecosystem)
 - Certifications: Advanced Java Certification from GeeksforGeeks
 - Personality: Friendly, technical, enthusiastic about systems architecture, loves talking about backend engineering and chess!
 - Languages: Hindi (native), English (fluent)

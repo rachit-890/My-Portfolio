@@ -42,6 +42,14 @@ export const config = {
             id: 2,
             title: "Kinetic Cybernetics",
             category: "AI Fitness Ecosystem",
+            technologies: "Java, Spring Boot, Python, Node.js, React, PostgreSQL, Docker",
+            image: "/images/kinetic.png",
+            description: "Developed an AI-driven fitness platform processing 500+ biometric data points for real-time health insights. Developed secure backend services using Spring Boot with JWT authentication and RESTful APIs. Integrated Python ML pipelines, improving prediction accuracy by 40%."
+        },
+        {
+            id: 3,
+            title: "Fitness Tracker",
+            category: "AI Fitness Ecosystem",
             technologies: "Java 25, Spring Boot 3.5.5, Python 3.14, FastAPI, React 19, Redux Toolkit, TailwindCSS, H2, JWT, Docker",
             image: "/images/fitness.png",
             description: "Engineered a neural-inspired fitness tracking ecosystem leveraging Machine Learning (FastAPI, Scikit-learn) for dynamic calorie prediction and custom 8-week workout protocols. Built with a high-performance Spring Boot 3.5.5 backend (Java 25) using secure JWT authorization, and a responsive React 19 frontend with Redux Toolkit and TailwindCSS. Fully containerized with Docker Compose."
